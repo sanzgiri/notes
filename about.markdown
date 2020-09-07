@@ -5,6 +5,6 @@ permalink: /about/
 nav_order: 100
 ---
 
-These docs are hosted on GitHub: [hamelsmu/notes](https://github.com/hamelsmu/notes).
+These docs are hosted on GitHub: [sanzgiri/notes](https://github.com/sanzgiri/notes).
 
-You can find more information about the author [here](https://hamel.dev).
+You can find more information about me [here](https://sanzgiri.github.io).

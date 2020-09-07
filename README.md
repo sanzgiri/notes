@@ -1,6 +1,6 @@
-![Documentation](https://github.com/hamelsmu/notes/workflows/Documentation/badge.svg) 
+![Documentation](https://github.com/sanzgiri/notes/workflows/Documentation/badge.svg) 
 
-# Hamel's Notes: https://notes.hamel.dev
+# Ashutosh's Notes: https://notes.sanzgiri.dev
 
 ## Run this site locally: 
 
